@@ -1,0 +1,10 @@
+See https://redhat-scholars.github.io/build-course/rhs-build-course/overview.html
+To create:
+Go to https://github.com/redhat-scholars/courseware-template --> Use this template --> Create a new repository
+After creting the repo: 
+See https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot :
+Go to https://github.com/georgi-mobi/demo-course/ --> Settings -> Actions -> General -> Workflow permissions enable "Read and write permissions" 
+
+Pages - https://docs.github.com/en/pages/quickstart
+Create repo georgi-mobi.github.io
+Go to https://github.com/georgi-mobi/demo-course/settings/pages Select in Branch select gh-pages /root
