@@ -8,3 +8,6 @@ Go to https://github.com/georgi-mobi/demo-course/ --> Settings -> Actions -> Gen
 Pages - https://docs.github.com/en/pages/quickstart
 Create repo georgi-mobi.github.io
 Go to https://github.com/georgi-mobi/demo-course/settings/pages Select in Branch select gh-pages /root
+
+Wait a minute and check:
+https://georgi-mobi.github.io/demo-course/
